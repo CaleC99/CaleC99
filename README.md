@@ -14,3 +14,23 @@ With a keen interest in all things web, I am on a journey to transform my passio
 CaleC99/CaleC99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink-caret {
+  50% { border-color: transparent; }
+}
+
+.typing {
+  overflow: hidden; /* Ensures the content doesn't overflow its container */
+  border-right: .15em solid orange; /* The caret */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Centers the content */
+  letter-spacing: .15em; /* Adjusts letter spacing for aesthetics */
+  animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+}
