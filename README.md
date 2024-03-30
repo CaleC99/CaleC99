@@ -9,7 +9,7 @@ With a keen interest in all things web, I am on a journey to transform my passio
 - 📫 How to reach me via email at cale.candelora5@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I broke each leg once in the same year 6 months apart 
-
+- Portfolio: here is a link to my portfolio website https://timely-haupia-31668e.netlify.app/
 <!---
 CaleC99/CaleC99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
